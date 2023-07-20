@@ -1,8 +1,8 @@
 /**
 * # serviceendpoint
 *
-* This module manages the microsoft/azuredevops serviceendpoint resources.
-* For more information see https://registry.terraform.io/providers/microsoft/azuredevops/latest/docs
+* This module manages the microsoft/azuredevops serviceendpoint resources, see https://registry.terraform.io/providers/microsoft/azuredevops/latest/docs.
+* For more information about the module structure see https://telekom-mms.github.io/terraform-template.
 *
 */
 
