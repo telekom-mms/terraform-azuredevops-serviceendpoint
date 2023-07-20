@@ -6,7 +6,10 @@
     "topics": [
       "terraform",
       "azuredevops",
-      ""
+      "serviceendpoint-azurerm",
+      "serviceendpoint-azurecr",
+      "serviceendpoint-dockerregistry",
+      "serviceendpoint-generic-git"
     ]
   }
 }
