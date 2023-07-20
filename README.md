@@ -136,7 +136,7 @@ module "container" {
 }
 
 module "core" {
-  source = "../terraform-azuredevops-core"
+  source = "registry.terraform.io/telekom-mms/core/azuredevops"
   project = {
     mms = {}
   }
@@ -192,7 +192,7 @@ module "container" {
 }
 
 module "core" {
-  source = "../terraform-azuredevops-core"
+  source = "registry.terraform.io/telekom-mms/core/azuredevops"
   project = {
     mms = {}
   }
