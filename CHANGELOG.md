@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/telekom-mms/terraform-azuredevops-serviceendpoint/tree/1.0.1) (2024-08-28)
+
+[Full Changelog](https://github.com/telekom-mms/terraform-azuredevops-serviceendpoint/compare/1.0.0...1.0.1)
+
+**Merged pull requests:**
+
+- run terrascan in test setting directory [\#2](https://github.com/telekom-mms/terraform-azuredevops-serviceendpoint/pull/2) ([michaelamattes](https://github.com/michaelamattes))
+
 ## [1.0.0](https://github.com/telekom-mms/terraform-azuredevops-serviceendpoint/tree/1.0.0) (2023-08-03)
 
 [Full Changelog](https://github.com/telekom-mms/terraform-azuredevops-serviceendpoint/compare/bf21bf2626f8ab0f5f5d5b03d796a19bbf9b884c...1.0.0)
