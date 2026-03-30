@@ -5,12 +5,12 @@
     "default_branch": "main",
     "homepage": "https://telekom-mms.github.io/terraform-template",
     "topics": [
-      "terraform",
       "azuredevops",
-      "serviceendpoint-azurerm",
       "serviceendpoint-azurecr",
+      "serviceendpoint-azurerm",
       "serviceendpoint-dockerregistry",
-      "serviceendpoint-generic-git"
+      "serviceendpoint-generic-git",
+      "terraform"
     ]
   }
 }
